@@ -1,0 +1,11 @@
+# Web Storm IDE files
+.idea
+
+# VS Code files
+.vscode/
+
+# Environment variables file
+.env
+
+# Node.js dependencies
+node_modules/
