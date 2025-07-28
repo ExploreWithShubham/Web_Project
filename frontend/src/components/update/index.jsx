@@ -1,0 +1,9 @@
+// Write a Update Component in React
+
+const UpdateTodo = () => {
+    return (
+        <div>Hello, world</div>
+    )
+}
+
+export default UpdateTodo;
