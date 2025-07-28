@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 // Write a Update Component in React
-=======
 // Write a Update Component in React
 
 const UpdateTodo = () => {
@@ -10,4 +8,3 @@ const UpdateTodo = () => {
 }
 
 export default UpdateTodo;
->>>>>>> main
