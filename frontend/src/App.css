@@ -38,6 +38,7 @@ nav ul li a {
 
 nav ul li a:hover {
     text-decoration: underline;
+    color: rgb(2, 2, 228)
 }
 
 .nav-right {
@@ -68,3 +69,32 @@ nav ul li a:hover {
     width: 100vw;
     height: 85vh;
 }
+
+.search-form {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+            justify-content: center;
+            margin: 20px;
+        }
+        input{
+            width: 300px;
+            padding: 7px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            border-color: black;
+        }
+
+        button {
+            padding: 7px 15px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007BFF;
+            color: white;
+            cursor: pointer;
+        }
+
+        h1{
+            text-align: center;
+            color: red;
+        }
