@@ -1,3 +1,15 @@
+<<<<<<< HEAD
 .vscode
 
 .idea
+=======
+<<<<<<< HEAD
+.vscode/
+
+.idea/
+=======
+.vscode
+
+.idea
+>>>>>>> ad7c88a (Add .gitignore file to exclude IDE configuration directories)
+>>>>>>> main
